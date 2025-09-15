@@ -75,7 +75,7 @@ Welcome to my tech playground! Here you'll find my projects, certifications, and
     - 📧 Email: your.email@example.com  
     - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
     - 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-    - 🐙 Resume: [github.com/yourusername](https://github.com/BalamuruganMaruthavanan/devsecops/Balamurugan Maruthavanan Azure Cloud and Devops Engineer.pdf)
+    - 🐙 Resume: [github.com/yourusername](https://github.com/BalamuruganMaruthavanan/devsecops/Balamurugan.pdf)
 
   </div>
   <div class="contact-image">
