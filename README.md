@@ -1,1 +1,1 @@
-# devsecops
+# Results-driven IT Consultant and Cloud Infrastructure Engineer with 13+ years of experience in designing, implementing, and managing sophisticated IT solutions. Adept at analyzing business requirements, conducting feasibility studies, and developing strategic, cost-effective solutions to enhance performance, scalability, and security. Proven track record in delivering impactful results and optimizing IT environments for diverse clients.
